@@ -1,0 +1,11 @@
+# Compile of task2.sv was successful.
+# Compile of fillscreen.sv was successful.
+# Compile of vga_pll.sv was successful.
+# Compile of vga_adapter.sv was successful.
+# Compile of vga_address_translator.sv was successful.
+# Compile of vga_controller.sv was successful.
+# Compile of tb_rtl_task2.sv was successful.
+# Compile of tb_syn_fillscreen.sv was successful.
+# Compile of tb_syn_circle.sv was successful.
+# Compile of tb_syn_reuleaux.sv was successful.
+# 10 compiles, 0 failed with no errors.

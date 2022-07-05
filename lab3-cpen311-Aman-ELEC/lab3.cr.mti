@@ -1,0 +1,77 @@
+{C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/tb_syn_reuleaux.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/tb_syn_reuleaux.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_syn_reuleaux
+
+Top level modules:
+	tb_syn_reuleaux
+
+} {} {}} {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_address_translator.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_address_translator.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_address_translator
+
+Top level modules:
+	vga_address_translator
+
+} {} {}} {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/fillscreen.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/fillscreen.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fillscreen
+-- Compiling module register_fs_x
+-- Compiling module register_fs_y
+-- Compiling module statemachine_mooremachine_fs
+-- Compiling module statemachine_combinational_fs
+
+Top level modules:
+	fillscreen
+
+} {} {}} {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/tb_rtl_task2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/tb_rtl_task2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_rtl_task2
+
+Top level modules:
+	tb_rtl_task2
+
+} {} {}} {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_pll.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_pll.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_pll
+
+Top level modules:
+	vga_pll
+
+} {} {}} {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_controller.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_controller.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_controller
+
+Top level modules:
+	vga_controller
+
+} {} {}} {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_syn_circle.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_syn_circle.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_syn_circle
+
+Top level modules:
+	tb_syn_circle
+
+} {} {}} {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/tb_syn_fillscreen.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/tb_syn_fillscreen.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_syn_fillscreen
+
+Top level modules:
+	tb_syn_fillscreen
+
+} {} {}} {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_adapter.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_adapter.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_adapter
+
+Top level modules:
+	vga_adapter
+
+} {} {}} {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/task2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/task2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task2
+-- Compiling module statemachine_mooremachine_task2
+-- Compiling module statemachine_combinational_task2
+
+Top level modules:
+	task2
+
+} {} {}}

@@ -1,0 +1,40 @@
+{C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/task4.sv} {1 {vlog -work work -sv -stats=none {C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/task4.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task4
+-- Compiling module statemachine_mooremachine_task3
+-- Compiling module statemachine_combinational_task3
+
+Top level modules:
+	task4
+
+} {} {}} {C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/reuleaux.sv} {1 {vlog -work work -sv -stats=none {C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/reuleaux.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module reuleaux
+-- Compiling module register_r_offset_y
+-- Compiling module register_r_offset_x
+-- Compiling module register_r_crit
+-- Compiling module statemachine_mooremachine_r
+-- Compiling module statemachine_combinational_r
+
+Top level modules:
+	reuleaux
+
+} {} {}} {C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/fillscreen.sv} {1 {vlog -work work -sv -stats=none {C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/fillscreen.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fillscreen
+-- Compiling module register_fs_x
+-- Compiling module register_fs_y
+-- Compiling module statemachine_mooremachine_fs
+-- Compiling module statemachine_combinational_fs
+
+Top level modules:
+	fillscreen
+
+} {} {}} {C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/tb_rtl_task4.sv} {1 {vlog -work work -sv -stats=none {C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/tb_rtl_task4.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_rtl_task4
+
+Top level modules:
+	tb_rtl_task4
+
+} {} {}}

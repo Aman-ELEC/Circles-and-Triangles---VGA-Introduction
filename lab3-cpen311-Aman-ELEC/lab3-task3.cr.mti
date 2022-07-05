@@ -1,0 +1,40 @@
+{C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/task3.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/task3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task3
+-- Compiling module statemachine_mooremachine_task3
+-- Compiling module statemachine_combinational_task3
+
+Top level modules:
+	task3
+
+} {} {}} {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/circle.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/circle.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module circle
+-- Compiling module register_circle_offset_y
+-- Compiling module register_circle_offset_x
+-- Compiling module register_circle_crit
+-- Compiling module statemachine_mooremachine_c
+-- Compiling module statemachine_combinational_c
+
+Top level modules:
+	circle
+
+} {} {}} {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/fillscreen.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/fillscreen.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fillscreen
+-- Compiling module register_fs_x
+-- Compiling module register_fs_y
+-- Compiling module statemachine_mooremachine_fs
+-- Compiling module statemachine_combinational_fs
+
+Top level modules:
+	fillscreen
+
+} {} {}} {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_rtl_task3.sv} {1 {vlog -work work -sv -stats=none {C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_rtl_task3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_rtl_task3
+
+Top level modules:
+	tb_rtl_task3
+
+} {} {}}

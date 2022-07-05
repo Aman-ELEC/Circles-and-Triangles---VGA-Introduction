@@ -1,0 +1,851 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/19.1
+vcircle
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1655486303
+!i10b 1
+!s100 ?WY;S_NM5RNP3mJ;`]gS^0
+IFYlc[Wdd>j?E_M82?fP`l0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 circle_sv_unit
+S1
+Z4 dC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC
+Z5 w1655486250
+Z6 8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/circle.sv
+Z7 FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/circle.sv
+L0 18
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1655486303.000000
+Z10 !s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/circle.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/circle.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+vfillscreen
+R0
+Z14 !s110 1656144233
+!i10b 1
+!s100 jUOEd`F4TdXE4UM3BgCB^0
+I>kIFNz3f5ke`JeAEaN71F2
+R2
+Z15 !s105 fillscreen_sv_unit
+S1
+Z16 dC:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC
+Z17 w1655271614
+Z18 8C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/fillscreen.sv
+Z19 FC:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/fillscreen.sv
+L0 6
+R8
+r1
+!s85 0
+31
+Z20 !s108 1656144233.000000
+Z21 !s107 C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/fillscreen.sv|
+Z22 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/fillscreen.sv|
+!i113 1
+R12
+R13
+vregister_circle_crit
+R0
+R1
+!i10b 1
+!s100 Fl`W?zm=49O5RVMRGA[Ho1
+IW`_HiA_n]9o7CL3;T1M0W3
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 76
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vregister_circle_offset_x
+R0
+R1
+!i10b 1
+!s100 M:c4lkICO>z4GM8Yn>CNG0
+I2N=SPM>1PEiAEQ;5DiN0n3
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 63
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vregister_circle_offset_y
+R0
+R1
+!i10b 1
+!s100 OU]i^Jd83b:>ZnKKQL[6h0
+IDfWXdBkg2a0kBgd2=_`L[0
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 50
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vregister_fs_x
+R0
+R14
+!i10b 1
+!s100 07`HD4hn5aPiiUV2A9dMF0
+IRVPhII0kKOUURYK=WFTaj3
+R2
+R15
+S1
+R16
+R17
+R18
+R19
+L0 31
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R12
+R13
+vregister_fs_y
+R0
+R14
+!i10b 1
+!s100 P:@LMlW]jYfeoTP15THA53
+I`LaP@YO[f?UmQci?`<0VX0
+R2
+R15
+S1
+R16
+R17
+R18
+R19
+L0 44
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R12
+R13
+vregister_r_crit
+R0
+R14
+!i10b 1
+!s100 n]8[JD^dG=;7@RA^e9]O[3
+I6`W]heb1X30QUbEnz`7=U1
+R2
+Z23 !s105 reuleaux_sv_unit
+S1
+R16
+Z24 w1655483238
+Z25 8C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/reuleaux.sv
+Z26 FC:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/reuleaux.sv
+L0 166
+R8
+r1
+!s85 0
+31
+R20
+Z27 !s107 C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/reuleaux.sv|
+Z28 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/reuleaux.sv|
+!i113 1
+R12
+R13
+vregister_r_offset_x
+R0
+R14
+!i10b 1
+!s100 4eIL3E634mW0FZbBAiYbE1
+IVhVe2o]9HJkG1dn0O@=2R1
+R2
+R23
+S1
+R16
+R24
+R25
+R26
+L0 152
+R8
+r1
+!s85 0
+31
+R20
+R27
+R28
+!i113 1
+R12
+R13
+vregister_r_offset_y
+R0
+R14
+!i10b 1
+!s100 H@UWfAZllbJd8Z3F_5k:J3
+IglUm]RhQ<b00:83YhPTf;2
+R2
+R23
+S1
+R16
+R24
+R25
+R26
+L0 139
+R8
+r1
+!s85 0
+31
+R20
+R27
+R28
+!i113 1
+R12
+R13
+vreuleaux
+R0
+R14
+!i10b 1
+!s100 bBlC`A[1EDlzTBeK6AH1d1
+IDVGSfn4>QU4IhEkY0bN8n3
+R2
+R23
+S1
+R16
+R24
+R25
+R26
+L0 52
+R8
+r1
+!s85 0
+31
+R20
+R27
+R28
+!i113 1
+R12
+R13
+vstatemachine_combinational_c
+R0
+R1
+!i10b 1
+!s100 1I^KH7A=0WjU]HEe5[2Me2
+IKE53k5fXZNQ8bK4ERIjOg1
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 161
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vstatemachine_combinational_fs
+R0
+R14
+!i10b 1
+!s100 z9zTWk1b5z:Q2``SiTA:01
+I1TDZO^9GReOn79;aoZiUZ3
+R2
+R15
+S1
+R16
+R17
+R18
+R19
+L0 98
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R12
+R13
+vstatemachine_combinational_r
+R0
+R14
+!i10b 1
+!s100 ?G9Ih76Q<9]]MhR3kVaG`1
+I795?36YWz0k8bPe?;koo>2
+R2
+R23
+S1
+R16
+R24
+R25
+R26
+L0 326
+R8
+r1
+!s85 0
+31
+R20
+R27
+R28
+!i113 1
+R12
+R13
+vstatemachine_combinational_task2
+R0
+Z29 !s110 1655490583
+!i10b 1
+!s100 UL71IA3Ta7]LWY`3nN9G]0
+I2P0HF?Iz4^]XJoEG:oD>k0
+R2
+Z30 !s105 task2_sv_unit
+S1
+R4
+Z31 w1655193228
+Z32 8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/task2.sv
+Z33 FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/task2.sv
+L0 106
+R8
+r1
+!s85 0
+31
+Z34 !s108 1655490583.000000
+Z35 !s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/task2.sv|
+Z36 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/task2.sv|
+!i113 1
+R12
+R13
+vstatemachine_combinational_task3
+R0
+R14
+!i10b 1
+!s100 UH4UnLza?8dAN9[zh6e5o3
+IM<NkO6miB;87gKml9QUL40
+R2
+Z37 !s105 task4_sv_unit
+S1
+R16
+Z38 w1655483250
+Z39 8C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/task4.sv
+Z40 FC:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/task4.sv
+L0 147
+R8
+r1
+!s85 0
+31
+R20
+Z41 !s107 C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/task4.sv|
+Z42 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/task4.sv|
+!i113 1
+R12
+R13
+vstatemachine_mooremachine_c
+R0
+R1
+!i10b 1
+!s100 mIOVEDUmZDR=T2e1l_FMU2
+ID]6ffG8fTRL4E7FkGOKQ:0
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 97
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vstatemachine_mooremachine_fs
+R0
+R14
+!i10b 1
+!s100 zM4AX0Mz@<mjQdT<A7[KY1
+I7aRoceA0dV@??ozGE@f:=3
+R2
+R15
+S1
+R16
+R17
+R18
+R19
+L0 57
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R12
+R13
+vstatemachine_mooremachine_r
+R0
+R14
+!i10b 1
+!s100 Dm09;X5h;5d:aidd<hBfW0
+IOjYGRHa;0lUT5mmJ2mf2:3
+R2
+R23
+S1
+R16
+R24
+R25
+R26
+L0 188
+R8
+r1
+!s85 0
+31
+R20
+R27
+R28
+!i113 1
+R12
+R13
+vstatemachine_mooremachine_task2
+R0
+R29
+!i10b 1
+!s100 `EeOW;jZl2e:kIhJMMlJm1
+IRB7_b<dI9>QERAe0CAR:V1
+R2
+R30
+S1
+R4
+R31
+R32
+R33
+L0 75
+R8
+r1
+!s85 0
+31
+R34
+R35
+R36
+!i113 1
+R12
+R13
+vstatemachine_mooremachine_task3
+R0
+R14
+!i10b 1
+!s100 ;J6o^Qh@IEgbDJkXS?F]?2
+IF7RkF9^Cgg71Z[V3P1ao?2
+R2
+R37
+S1
+R16
+R38
+R39
+R40
+L0 104
+R8
+r1
+!s85 0
+31
+R20
+R41
+R42
+!i113 1
+R12
+R13
+vtask2
+R0
+R29
+!i10b 1
+!s100 67GzWmQ0TJIl1m8Xb5dmB2
+IXLd>5TX[T^43^VEo<SaY82
+R2
+R30
+S1
+R4
+R31
+R32
+R33
+L0 5
+R8
+r1
+!s85 0
+31
+R34
+R35
+R36
+!i113 1
+R12
+R13
+vtask3
+R0
+R1
+!i10b 1
+!s100 Y?FbN1NYD=^IdS?fK>0Kz0
+IgX0IM<;T8F>d38d?QL[gB2
+R2
+!s105 task3_sv_unit
+S1
+R4
+w1655486258
+8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/task3.sv
+FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/task3.sv
+L0 7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/task3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/task3.sv|
+!i113 1
+R12
+R13
+vtask4
+R0
+R14
+!i10b 1
+!s100 5oE<gQdW@M0_b7A27_jK12
+I4n9b:DmS<EiT4;mIk3R^a0
+R2
+R37
+S1
+R16
+R38
+R39
+R40
+L0 7
+R8
+r1
+!s85 0
+31
+R20
+R41
+R42
+!i113 1
+R12
+R13
+vtb_rtl_circle
+R0
+!s110 1655327213
+!i10b 1
+!s100 g[bT?IV6Cgb1U9OkBPek^0
+ITlYBcb8M`@ENCagL56[Sn2
+R2
+!s105 tb_rtl_circle_sv_unit
+S1
+R4
+w1655325036
+8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_rtl_circle.sv
+FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_rtl_circle.sv
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1655327213.000000
+!s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_rtl_circle.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_rtl_circle.sv|
+!i113 1
+R12
+R13
+vtb_rtl_task2
+R0
+R29
+!i10b 1
+!s100 _MZ0E_geO]AfaSMfSZ4di0
+Ib6D2gKTc1L_nd_aQE0PPO2
+R2
+!s105 tb_rtl_task2_sv_unit
+S1
+R4
+w1655486511
+8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/tb_rtl_task2.sv
+FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/tb_rtl_task2.sv
+L0 7
+R8
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/tb_rtl_task2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/tb_rtl_task2.sv|
+!i113 1
+R12
+R13
+vtb_rtl_task3
+R0
+R1
+!i10b 1
+!s100 klDM;0ghCX@cl5[29HlJJ1
+IYfA6B54hUHNb9_4]OZgHc2
+R2
+!s105 tb_rtl_task3_sv_unit
+S1
+R4
+w1655486045
+8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_rtl_task3.sv
+FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_rtl_task3.sv
+L0 9
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_rtl_task3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_rtl_task3.sv|
+!i113 1
+R12
+R13
+vtb_rtl_task4
+R0
+!s110 1656144234
+!i10b 1
+!s100 UHZ[Zj^g>_[zNUAhOKI6E0
+ImER5Jabb]UBIXek7Vg?7;1
+R2
+!s105 tb_rtl_task4_sv_unit
+S1
+R16
+w1655485386
+8C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/tb_rtl_task4.sv
+FC:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/tb_rtl_task4.sv
+L0 9
+R8
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/tb_rtl_task4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/User/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/tb_rtl_task4.sv|
+!i113 1
+R12
+R13
+vtb_syn_circle
+R0
+Z43 !s110 1655490584
+!i10b 1
+!s100 TgQjV5m0AJYPTi9VJLe9E3
+IBiNG38BLF7VTT?L9G7_dA0
+R2
+!s105 tb_syn_circle_sv_unit
+S1
+R4
+w1655490303
+8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_syn_circle.sv
+FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_syn_circle.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_syn_circle.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task3/tb_syn_circle.sv|
+!i113 1
+R12
+R13
+vtb_syn_fillscreen
+R0
+R29
+!i10b 1
+!s100 a@403DBOJEmPR1=U>m;dS0
+Ic@V:E=R7bnOFza:6<M31<0
+R2
+!s105 tb_syn_fillscreen_sv_unit
+S1
+R4
+w1655490014
+8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/tb_syn_fillscreen.sv
+FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/tb_syn_fillscreen.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/tb_syn_fillscreen.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task2/tb_syn_fillscreen.sv|
+!i113 1
+R12
+R13
+vtb_syn_reuleaux
+R0
+R43
+!i10b 1
+!s100 ?jfF]43mSQC5Q<D:G@;IM2
+ITHiGEG:MV=@k5PPZWLP@50
+R2
+!s105 tb_syn_reuleaux_sv_unit
+S1
+R4
+w1655490460
+8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/tb_syn_reuleaux.sv
+FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/tb_syn_reuleaux.sv
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1655490584.000000
+!s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/tb_syn_reuleaux.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/task4/tb_syn_reuleaux.sv|
+!i113 1
+R12
+R13
+vvga_adapter
+R0
+DXx6 sv_std 7 mti_fli 0 22 N`967G9WZ3=6fdOR5MX]S1
+R29
+!i10b 1
+!s100 h8aB6A^ia_odOh=<4`Ka>0
+IMGCh0eYHRjSG6Sz_EBoTK2
+R2
+!s105 vga_adapter_sv_unit
+S1
+R4
+Z44 w1655164743
+8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_adapter.sv
+FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_adapter.sv
+L0 82
+R8
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_adapter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_adapter.sv|
+!i113 1
+R12
+R13
+vvga_address_translator
+R0
+R29
+!i10b 1
+!s100 >4Ck2[^7MRo410`;`mBhG0
+I3lMeNL]1lQik6DNfHhNJ;3
+R2
+!s105 vga_address_translator_sv_unit
+S1
+R4
+R44
+8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_address_translator.sv
+FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_address_translator.sv
+L0 8
+R8
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_address_translator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_address_translator.sv|
+!i113 1
+R12
+R13
+vvga_controller
+R0
+R29
+!i10b 1
+!s100 K^Z0JG9FjLR6T71PJVY]`2
+I2PU7WacKomMFMh496XgWI2
+R2
+!s105 vga_controller_sv_unit
+S1
+R4
+R44
+8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_controller.sv
+FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_controller.sv
+L0 13
+R8
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_controller.sv|
+!i113 1
+R12
+R13
+vvga_pll
+R0
+R29
+!i10b 1
+!s100 B@RTRAe2BCUY;gLZj0kH`3
+IBWZinDjIF6UJ^J5nO7Qko1
+R2
+!s105 vga_pll_sv_unit
+S1
+R4
+R44
+8C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_pll.sv
+FC:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_pll.sv
+L0 36
+R8
+r1
+!s85 0
+31
+R34
+!s107 C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_pll.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/amanp/OneDrive/Documents/Aman/UBC 2nd Year Applied Sciences/CPEN 311/lab3-cpen311-Aman-ELEC/vga-core/vga_pll.sv|
+!i113 1
+R12
+R13
